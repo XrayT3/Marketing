@@ -1,5 +1,5 @@
 
-token = "597448516:AAEq1eXIR6k9YcNs-T26t4cOZIgytyq8LNY"
+token = ""
 user_step = {}
 backStep = {}
 usersRequests = {}
